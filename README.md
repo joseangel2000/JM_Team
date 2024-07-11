@@ -3,16 +3,15 @@ App para el registro de actividad física.
 
 Planeación.
 1. Arquitectura del Sistema
- Frontend:
-
--Aplicación Web: React
+ -Frontend:
+Aplicación Web: React
 Aplicación Móvil: React Native
- Backend:
--API: Rust (utilizando frameworks como Actix, Rocket o Warp)
-Base de Datos:
--SQL: PostgreSQL o MySQL
--NoSQL: MongoDB (si es necesario)
--Autenticación y Autorización:
+ -Backend:
+API: Rust (utilizando frameworks como Actix, Rocket o Warp)
+ -Base de Datos:
+SQL: PostgreSQL o MySQL
+NoSQL: MongoDB (si es necesario)
+Autenticación y Autorización:
 JWT (JSON Web Tokens) para autenticación basada en tokens
 Almacenamiento de Archivos:
 -Almacenamiento en la nube (Amazon S3, Google Cloud Storage)
