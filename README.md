@@ -13,47 +13,47 @@ SQL: PostgreSQL o MySQL
 NoSQL: MongoDB (si es necesario)
 Autenticación y Autorización:
 JWT (JSON Web Tokens) para autenticación basada en tokens
-Almacenamiento de Archivos:
--Almacenamiento en la nube (Amazon S3, Google Cloud Storage)
+- Almacenamiento de Archivos:
+Almacenamiento en la nube (Amazon S3, Google Cloud Storage)
 3. Tecnologías Recomendadas
 Frontend:
--React (para la aplicación web)
--React Native (para la aplicación móvil)
--Redux o Context API (para el manejo de estado)
--Axios o Fetch API (para las llamadas a la API)
+- React (para la aplicación web)
+- React Native (para la aplicación móvil)
+- Redux o Context API (para el manejo de estado)
+- Axios o Fetch API (para las llamadas a la API)
 Backend:
--Rust
--Frameworks: Actix, Rocket, Warp
--Base de Datos:
--PostgreSQL o MySQL
--ORM: Diesel (para Rust)
+- Rust
+- Frameworks: Actix, Rocket, Warp
+- Base de Datos:
+- PostgreSQL o MySQL
+- ORM: Diesel (para Rust)
 Autenticación:
--JWT
+- JWT
 Almacenamiento de Archivos:
--Amazon S3, Google Cloud Storage
+- Amazon S3, Google Cloud Storage
 Despliegue y CI/CD:
--Docker (para contenedores)
--Kubernetes (para la orquestación de contenedores)
--GitHub Actions, GitLab CI o CircleCI (para CI/CD)
+- Docker (para contenedores)
+- Kubernetes (para la orquestación de contenedores)
+- GitHub Actions, GitLab CI o CircleCI (para CI/CD)
 Computación en la Nube:
--AWS, Google Cloud Platform (GCP) o Azure
+- AWS, Google Cloud Platform (GCP) o Azure
 Monitoreo y Logs:
--Prometheus, Grafana (para monitoreo)
--ELK Stack (Elasticsearch, Logstash, Kibana) para logs
+- Prometheus, Grafana (para monitoreo)
+- ELK Stack (Elasticsearch, Logstash, Kibana) para logs
 4. Estructura del Proyecto
 Frontend:
--Carpeta de Componentes
--Carpeta de Páginas/Vistas
--Carpeta de Servicios (para llamadas a la API)
--Carpeta de Estado (Redux o Context)
+- Carpeta de Componentes
+- Carpeta de Páginas/Vistas
+- Carpeta de Servicios (para llamadas a la API)
+- Carpeta de Estado (Redux o Context)
 Backend:
--Carpeta de Controladores
--Carpeta de Modelos
--Carpeta de Rutas
--Carpeta de Servicios
--Carpeta de Middleware
+- Carpeta de Controladores
+- Carpeta de Modelos
+- Carpeta de Rutas
+- Carpeta de Servicios
+- Carpeta de Middleware
 5. Flujo de Trabajo
--Definición de Requisitos:
+- Definición de Requisitos: 
 
 Recopilar requisitos de los entrenadores y clientes.
 Definir las funcionalidades principales (gestión de entrenamientos, seguimiento de progreso, chat, etc.).
