@@ -4,6 +4,7 @@ App para el registro de actividad física.
 Planeación.
 1. Arquitectura del Sistema
  Frontend:
+
 -Aplicación Web: React
 Aplicación Móvil: React Native
  Backend:
@@ -15,7 +16,7 @@ Base de Datos:
 JWT (JSON Web Tokens) para autenticación basada en tokens
 Almacenamiento de Archivos:
 -Almacenamiento en la nube (Amazon S3, Google Cloud Storage)
-2. Tecnologías Recomendadas
+3. Tecnologías Recomendadas
 Frontend:
 -React (para la aplicación web)
 -React Native (para la aplicación móvil)
@@ -40,7 +41,7 @@ Computación en la Nube:
 Monitoreo y Logs:
 -Prometheus, Grafana (para monitoreo)
 -ELK Stack (Elasticsearch, Logstash, Kibana) para logs
-3. Estructura del Proyecto
+4. Estructura del Proyecto
 Frontend:
 -Carpeta de Componentes
 -Carpeta de Páginas/Vistas
@@ -52,7 +53,7 @@ Backend:
 -Carpeta de Rutas
 -Carpeta de Servicios
 -Carpeta de Middleware
-4. Flujo de Trabajo
+5. Flujo de Trabajo
 -Definición de Requisitos:
 
 Recopilar requisitos de los entrenadores y clientes.
