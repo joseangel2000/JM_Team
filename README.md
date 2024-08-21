@@ -122,3 +122,7 @@ Configurar los entornos de desarrollo.
 Empezar con el desarrollo del frontend y backend de manera paralela.
 Implementar CI/CD y prácticas de despliegue.
 Realizar pruebas y obtener retroalimentación.
+
+
+
+Cómo página de referencia tenemos https://www.traineeks.com/
